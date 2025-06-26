@@ -2,7 +2,7 @@
 Limpeza e Proteção
 
 ## 👉 Atividade:
-Usando modelo de OnePage apresentada na pasta "Desafio" você deverá completar e personalizar a página com base no tema 5 apresntado. Esta atividade será importante para o trabalho da disciplina.
+Usando modelo de OnePage apresentada na pasta "Desafio" você deverá completar e personalizar a página com base no tema 5 apresntado. Esta atividade será importante para o trabalho da disciplina. Exemplo final em: Modelo_OnePage.pdf
 
 ## 📤 Entrega
 
